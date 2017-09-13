@@ -1,0 +1,13 @@
+Author: Danielle DeLooze
+Student ID: 29493487
+Email: ddelooze@u.rochester.edu
+Project: Project 3 Point Location
+Date: 4/3/2017
+
+OUTPUT:
+Points (0.25,0.8) and (0.6,0.5) are in the same region!
+Points (0.95,0.1) and (0.11,0.5) are in the same region!
+Points (0.05,0.9) and (0.0,0.5) are not in the same regions
+Line 1 is one of the lines that seperates the two points
+External Nodes is equal to: 14
+Average external path length is equal to: 3
